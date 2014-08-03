@@ -1,0 +1,6 @@
+c:\users\bad robot\documents\visual studio 2013\Projects\SortingMethods\SortingMethods\bin\Debug\SortingMethods.exe.config
+c:\users\bad robot\documents\visual studio 2013\Projects\SortingMethods\SortingMethods\obj\Debug\SortingMethods.csprojResolveAssemblyReference.cache
+c:\users\bad robot\documents\visual studio 2013\Projects\SortingMethods\SortingMethods\bin\Debug\SortingMethods.exe
+c:\users\bad robot\documents\visual studio 2013\Projects\SortingMethods\SortingMethods\bin\Debug\SortingMethods.pdb
+c:\users\bad robot\documents\visual studio 2013\Projects\SortingMethods\SortingMethods\obj\Debug\SortingMethods.exe
+c:\users\bad robot\documents\visual studio 2013\Projects\SortingMethods\SortingMethods\obj\Debug\SortingMethods.pdb
